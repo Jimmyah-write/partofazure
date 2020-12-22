@@ -1,0 +1,28 @@
+
+
+
+ 
+ body {
+
+   font-family:arial;
+   background-color:#ccccff;
+   background-repeat: ne-resize;
+  
+   
+   
+ }
+ img {
+  border-radius: 50%;
+}
+<img src="hm.jpg" alt="Paris" width="300" height="300">
+    
+	 h3{
+		 font-size :18px;
+		 font-style:italic;
+	 }
+	 p{
+		 font-size:17px;
+	 }
+ 
+ 
+    
